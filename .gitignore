@@ -15,5 +15,3 @@ java-webapplication-demo.iml
 target
 .DS_Store
 logs
-README.md
-src/resource/

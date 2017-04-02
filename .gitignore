@@ -14,3 +14,6 @@ java-webapplication-demo.iml
 .idea
 target
 .DS_Store
+logs
+README.md
+src/resource/

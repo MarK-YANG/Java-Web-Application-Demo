@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
 import sample.data.jpa.service.RosterService;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -39,4 +40,6 @@ public class HelloController {
     public String dataJPA(){
         return this.rosterService.findByName("Mark").toString();
     }
+
+    
 }

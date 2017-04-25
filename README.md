@@ -16,3 +16,4 @@ It consists of following part (spring boot with other frameworks),
 * [slf4j](https://www.slf4j.org/) ([log4j2](https://logging.apache.org/log4j/2.x/))
 * [data-jpa](http://docs.spring.io/spring-data/data-jpa/docs/current/reference/html/)
 * spring-boot-test
+* [spring-boot-mybatis-start](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)
